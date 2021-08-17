@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
-- 👀 I’m interested in development, mindfulness, fitness, anf travel
+- 👀 I’m interested in development, mindfulness, fitness, and travel
 - 🌱 I’m currently learning how to be a developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: email: kevinwestNYC@gmail.com
