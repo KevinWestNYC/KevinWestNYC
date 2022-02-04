@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin
-- 👀 I’m interested in development, mindfulness, fitness, and travel
-- 🌱 I’m currently learning how to be a developer
-- 💞️ I’m looking to collaborate on interesting projects
+- ❤️ I love mindfulness, nature, travel, improv, athletics/fitness, technology, my wife, and our two cats.
+- 🌱 I’m currently working for Nifty Art Collective, a Web3 startup, on front-end React components, some of which that interact with the blockchain.
+- 💞️ I’m looking to collaborate on engaging projects with interesting people.
 - 📫 How to reach me: email: kevinwestNYC@gmail.com
 
 <!---
