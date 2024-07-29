@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
-- ❤️ I love mindfulness, nature, travel, improv, athletics/fitness, technology, my wife, and our two cats.
+- ❤️ I love mindfulness, nature, travel, improv, athletics/fitness, technology, my wife, and our baby.
 - 🌱 I’m currently working for Dealmed as a full-stack developer.
 - 💞️ I’m looking to collaborate on engaging projects with interesting people.
 - 📫 How to reach me: kevinwestNYC@gmail.com
