@@ -1,11 +1,26 @@
-- 👋 Hi, I’m Kevin
-- ❤️ I love mindfulness, nature, travel, improv, athletics/fitness, technology, my wife, and our baby.
-- 🌱 I’m currently working for Dealmed as a full-stack developer.
-- 💞️ I’m looking to collaborate on engaging projects with interesting people.
-- 📫 How to reach me: kevinwestNYC@gmail.com
-- 💻 www.KevinWestNYC.com
-- 📍 Brooklyn, NY
-<!---
-KevinWestNYC/KevinWestNYC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 **Hi, I'm Kevin West!**  
+🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
+
+I'm a passionate software engineer with over three years of experience building scalable, user-focused web and mobile applications. I thrive on crafting intuitive interfaces, optimizing backend systems, and leveraging cutting-edge technologies to solve real-world problems.  
+
+### **💻 What I Do:**  
+- **Frontend Mastery:** React, TypeScript, JavaScript, and CSS – delivering pixel-perfect, responsive designs.  
+- **Backend Expertise:** Node.js, Express, SQL – building robust and scalable APIs.  
+- **AI Integration:** Creating innovative solutions with OpenAI APIs.  
+- **E-commerce Excellence:** Designed systems that increased revenue by 12% for Dealmed.  
+
+### **🌟 Recent Projects:**  
+- **Story Sprouts**: A React Native app generating personalized children's stories with AI, featuring Firebase and RevenueCat integrations.  
+- **Dealmed Enhancements**: Led the development of an AI assistant and order tracking system, improving operational efficiency and user satisfaction.  
+
+### **🚀 What Drives Me:**  
+- Solving challenging technical problems.  
+- Collaborating with cross-functional teams to deliver impactful solutions.  
+- Staying at the forefront of web technologies and trends.  
+
+### **🌱 Currently Exploring:**  
+- Advanced TypeScript patterns and design systems.  
+- AI-powered tools to enhance user experiences.
+
+[Portfolio](https://www.kevinwestnyc.com)
+Feel free to check out my work here or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinwestnyc/). Let's build something awesome together!
