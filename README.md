@@ -22,5 +22,6 @@ I'm a passionate software engineer with over three years of experience building 
 - Advanced TypeScript patterns and design systems.  
 - AI-powered tools to enhance user experiences.
 
-[Portfolio](https://www.kevinwestnyc.com)
+[Portfolio](https://www.kevinwestnyc.com) 
+
 Feel free to check out my work here or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinwestnyc/). Let's build something awesome together!
